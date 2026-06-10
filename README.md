@@ -80,5 +80,6 @@ Through this project, I learned:
 ## Author
 
 Unnati Sharma
-B.Tech 
-VIT Bhopal University
+
+B.Tech CSE
+
